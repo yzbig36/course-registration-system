@@ -20,7 +20,7 @@ course ID and name)
 
 
 
-Reports
+Report
 1.View all courses (for every course the admin should be able to see the list of course name,
 course id, number of students registered, and the maximum number of students allowed to
 be registered)
