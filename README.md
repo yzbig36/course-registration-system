@@ -7,15 +7,6 @@ course section number, course location.
 
 The system shall allow two types of users: Admin and Student
 The system shall allow the Admin to perform the following tasks: (these are the options
-that will be in their menu that will be displayed your program when the administrator logs in)
-Courses Management
-1.Create a new course
-2.Delete a course
-3.Edit a course (this will allow the admin to edit any information on the course except for
-course ID and name)
-4.Display information for a given course (by course ID)
-5.Register a student 
-6.Exit
 
 
 
