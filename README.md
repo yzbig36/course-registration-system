@@ -16,6 +16,10 @@ course ID and name)
 4.Display information for a given course (by course ID)
 5.Register a student 
 6.Exit
+
+
+
+
 Reports
 1.View all courses (for every course the admin should be able to see the list of course name,
 course id, number of students registered, and the maximum number of students allowed to
